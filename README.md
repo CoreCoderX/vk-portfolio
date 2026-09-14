@@ -8,7 +8,7 @@
 
 > **Engineering scope into cost clarity and executable delivery.**
 
-Live site: `https://vijayakumaraathipalam.vercel.app/`
+Live site: [https://vijayakumaraathipalam.vercel.app/](https://vijayakumaraathipalam.vercel.app/)
 
 ## About Vijayakumar Aathipazham
 
@@ -126,8 +126,8 @@ systems (conveying, bagging, dosing, batching/weighing, packaging), and instrume
 
 ### Contact
 
-- 📧 vijayakumaraathipazham@gmail.com
-- 💼 linkedin.com/in/vijayakumaraathipazham
+- 📧 [vijayakumaraathipazham@gmail.com](mailto:vijayakumaraathipazham@gmail.com)
+- 💼 [linkedin.com/in/vijayakumaraathipazham](https://linkedin.com/in/vijayakumaraathipazham)
 - 📍 Chennai, Tamil Nadu, India
 - 📄 Full résumé (PDF): `public/Vijayakumar_Aathipazham_Resume.pdf` — downloadable from the site header, hero, about, and footer sections
 
