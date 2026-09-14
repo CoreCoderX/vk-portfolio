@@ -3,12 +3,12 @@
 ![React](https://img.shields.io/badge/react-19-61DAFB?logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-6-646CFF?logo=vite&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-5-3178C6?logo=typescript&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-ready-00C7B7?logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-deployed-000000?logo=vercel&logoColor=white)
 ![Resume](https://img.shields.io/badge/resume-PDF-B66543?logo=adobeacrobatreader&logoColor=white)
 
 > **Engineering scope into cost clarity and executable delivery.**
 
-Live site (after Netlify setup): `https://<your-site>.netlify.app/`
+Live site: `https://vijayakumaraathipalam.vercel.app/`
 
 ## About Vijayakumar Aathipazham
 
@@ -168,15 +168,16 @@ Open the URL Vite prints (usually `http://localhost:5173`).
 | `npm run preview` | Preview the production build locally  |
 | `npm run lint`    | Run ESLint                            |
 
-## Deploy to Netlify
+## Deploy to Vercel
 
-The repo is ready for Netlify through GitHub — `netlify.toml` already sets the build command
-(`npm run build`) and publish directory (`dist/`):
+The repo is ready for Vercel through GitHub — Vercel auto-detects the Vite setup
+(build command `npm run build`, output directory `dist/`), so no config file is needed:
 
 1. Push this folder to a GitHub repo.
-2. In Netlify: **Add new site → Import an existing project** → pick the repo.
-3. Deploy — Netlify builds and publishes automatically on every push to `main`.
-4. In `index.html`, replace `<your-site>` in the JSON-LD `url` with your real Netlify site name.
+2. In Vercel: **Add New → Project** → import the repo.
+3. Deploy — Vercel builds and publishes automatically on every push to `main`.
+
+Live at `https://vijayakumaraathipalam.vercel.app/`.
 
 ## Project structure
 
@@ -190,7 +191,6 @@ src/
   assets/docs/...Resume.pdf            # résumé source copy
   data/content.ts                      # profile, projects, experience, tools
   components/                          # header, hero, journey, sections, contact
-netlify.toml                           # Netlify build settings (build → dist/)
 dist/                                  # production static build (generated)
 ```
 
