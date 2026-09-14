@@ -2,20 +2,21 @@ Copyright (c) 2026 Vijayakumar Aathipazham
 
 All rights reserved.
 
-This project and its contents are proprietary and may not be copied,
-modified, distributed, published, or reused without prior written
-permission from the respective rights holder.
+This project and its source code may be freely copied, modified,
+distributed, published, and reused, including for commercial purposes.
 
-The following materials are specifically protected:
+The following client-provided materials are not included under this
+permission and may not be copied, modified, distributed, or reused
+without appropriate authorization:
 
 - Profile photographs
-- Résumé / CV documents
+- Resume / CV documents
 - Personal information
 
-Viewing the deployed website for personal or informational purposes
-is permitted. Any reproduction, modification, redistribution,
-commercial use, or reuse of the source code or proprietary assets
-requires prior written permission.
+The permission to reuse this project applies to the source code,
+structure, components, and implementation of the website. It does not
+grant rights to use or reproduce the protected client-provided
+materials listed above.
 
 Client-provided personal materials remain subject to their respective
 ownership and usage rights.
