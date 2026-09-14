@@ -1,0 +1,4 @@
+/* App-level overrides — layout lives in index.css per DESIGN.md component system. */
+main {
+  display: block;
+}
